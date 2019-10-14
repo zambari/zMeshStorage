@@ -4,11 +4,14 @@ A semi-private repo made so I have any control over what's where when adding ran
 
 All of the models are kept in Unity3D friendly formats.
 
+Theres a lot of wires, video equipment, Vj oriented stuff, general props.
+
 I do not claim to have copyright ownership to all of the meshes. I tried to seperate meshes taken from 3rd parties (free stuff mostly from sketchup 3d warehouse), wheren possible filenames were kept recognizable so original authors should be possible to trace. 
 
 If you find your geometry here and want me to remove it or add copyright ownership information, please give me a shout.
 
 For a lot of the models there have been an edit here or there, nothing perfect, overall this is a messy random mesh pit. 
+
 
  Most of them are extremely low poly. Some keep the scale, some don't.
 
@@ -19,4 +22,7 @@ https://youtu.be/Gu-Ism_DO_w
 
 Some of the textures will be missing but as I move to using this repo rather than copying stuff each time, stuff might get more complete coverage.
 
-Theres a lot of wires, video equipment, Vj oriented stuff, general props. Have fun
+
+Few textures and fonts I found thrown in for good measure. Again, if you want your content taken of of here, please let me known.
+
+Unless labeled as external, models can generally be considered MIT, but I do not take any resposibility in case you make millions and someone tracks down a mesh that 

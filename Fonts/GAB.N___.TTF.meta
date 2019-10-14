@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9caa59c3c6bf0c438eac7731ce1f1aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GAB.NET
+  fontNames:
+  - GAB.NET
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8cc64560cca31064b81d602fa797a3af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
