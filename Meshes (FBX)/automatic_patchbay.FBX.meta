@@ -1,11 +1,406 @@
 fileFormatVersion: 2
 guid: 640f3cf290dd5784cb23cc10be007700
 ModelImporter:
-  serializedVersion: 25
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bolts
+    100004: BOTTOM ROW of buttons
+    100006: button
+    100008: button 1
+    100010: button under screen 2
+    100012: button under screen1
+    100014: button01
+    100016: button02
+    100018: button03
+    100020: button05
+    100022: button06
+    100024: button07
+    100026: button08
+    100028: button09
+    100030: button10
+    100032: button12
+    100034: button13
+    100036: button14
+    100038: button15
+    100040: button16
+    100042: button17
+    100044: button18
+    100046: button21
+    100048: button22
+    100050: button23
+    100052: button24
+    100054: button25
+    100056: button26
+    100058: button27
+    100060: button28
+    100062: button29
+    100064: button30
+    100066: button31
+    100068: button32
+    100070: button33
+    100072: button34
+    100074: button35
+    100076: button36
+    100078: button37
+    100080: fitting
+    100082: fitting03
+    100084: fitting04
+    100086: fitting05
+    100088: fitting06
+    100090: fitting10
+    100092: fitting11
+    100094: fitting12
+    100096: fitting13
+    100098: fitting14
+    100100: fitting15
+    100102: fitting16
+    100104: fitting17
+    100106: fitting18
+    100108: fitting19
+    100110: fitting20
+    100112: fittng
+    100114: fittng02
+    100116: fittng03
+    100118: fittng04
+    100120: fittng04 1
+    100122: fittng05
+    100124: fittng06
+    100126: fittng08
+    100128: fittng09
+    100130: fittng11
+    100132: fittng12
+    100134: fittng13
+    100136: fittng14
+    100138: fittng15
+    100140: fittng16
+    100142: fittng17
+    100144: open panel button
+    100146: screen cover002
+    100148: screen Hinge Inner002
+    100150: screen hinge outer002
+    100152: screen002
+    100154: switcher small screen bg
+    100156: TOP ROW of buttons
+    400000: //RootNode
+    400002: bolts
+    400004: BOTTOM ROW of buttons
+    400006: button
+    400008: button 1
+    400010: button under screen 2
+    400012: button under screen1
+    400014: button01
+    400016: button02
+    400018: button03
+    400020: button05
+    400022: button06
+    400024: button07
+    400026: button08
+    400028: button09
+    400030: button10
+    400032: button12
+    400034: button13
+    400036: button14
+    400038: button15
+    400040: button16
+    400042: button17
+    400044: button18
+    400046: button21
+    400048: button22
+    400050: button23
+    400052: button24
+    400054: button25
+    400056: button26
+    400058: button27
+    400060: button28
+    400062: button29
+    400064: button30
+    400066: button31
+    400068: button32
+    400070: button33
+    400072: button34
+    400074: button35
+    400076: button36
+    400078: button37
+    400080: fitting
+    400082: fitting03
+    400084: fitting04
+    400086: fitting05
+    400088: fitting06
+    400090: fitting10
+    400092: fitting11
+    400094: fitting12
+    400096: fitting13
+    400098: fitting14
+    400100: fitting15
+    400102: fitting16
+    400104: fitting17
+    400106: fitting18
+    400108: fitting19
+    400110: fitting20
+    400112: fittng
+    400114: fittng02
+    400116: fittng03
+    400118: fittng04
+    400120: fittng04 1
+    400122: fittng05
+    400124: fittng06
+    400126: fittng08
+    400128: fittng09
+    400130: fittng11
+    400132: fittng12
+    400134: fittng13
+    400136: fittng14
+    400138: fittng15
+    400140: fittng16
+    400142: fittng17
+    400144: open panel button
+    400146: screen cover002
+    400148: screen Hinge Inner002
+    400150: screen hinge outer002
+    400152: screen002
+    400154: switcher small screen bg
+    400156: TOP ROW of buttons
+    2100000: grayPlastic2
+    2100002: basic black
+    2100004: darker plastic
+    2100006: btton transparent
+    2100008: screws
+    2100010: device_hinges
+    2100012: switcher control panel
+    2300000: //RootNode
+    2300002: bolts
+    2300004: button
+    2300006: button 1
+    2300008: button under screen 2
+    2300010: button under screen1
+    2300012: button01
+    2300014: button02
+    2300016: button03
+    2300018: button05
+    2300020: button06
+    2300022: button07
+    2300024: button08
+    2300026: button09
+    2300028: button10
+    2300030: button12
+    2300032: button13
+    2300034: button14
+    2300036: button15
+    2300038: button16
+    2300040: button17
+    2300042: button18
+    2300044: button21
+    2300046: button22
+    2300048: button23
+    2300050: button24
+    2300052: button25
+    2300054: button26
+    2300056: button27
+    2300058: button28
+    2300060: button29
+    2300062: button30
+    2300064: button31
+    2300066: button32
+    2300068: button33
+    2300070: button34
+    2300072: button35
+    2300074: button36
+    2300076: button37
+    2300078: fitting
+    2300080: fitting03
+    2300082: fitting04
+    2300084: fitting05
+    2300086: fitting06
+    2300088: fitting10
+    2300090: fitting11
+    2300092: fitting12
+    2300094: fitting13
+    2300096: fitting14
+    2300098: fitting15
+    2300100: fitting16
+    2300102: fitting17
+    2300104: fitting18
+    2300106: fitting19
+    2300108: fitting20
+    2300110: fittng
+    2300112: fittng02
+    2300114: fittng03
+    2300116: fittng04
+    2300118: fittng04 1
+    2300120: fittng05
+    2300122: fittng06
+    2300124: fittng08
+    2300126: fittng09
+    2300128: fittng11
+    2300130: fittng12
+    2300132: fittng13
+    2300134: fittng14
+    2300136: fittng15
+    2300138: fittng16
+    2300140: fittng17
+    2300142: open panel button
+    2300144: screen cover002
+    2300146: screen Hinge Inner002
+    2300148: screen hinge outer002
+    2300150: screen002
+    2300152: switcher small screen bg
+    3300000: //RootNode
+    3300002: bolts
+    3300004: button
+    3300006: button 1
+    3300008: button under screen 2
+    3300010: button under screen1
+    3300012: button01
+    3300014: button02
+    3300016: button03
+    3300018: button05
+    3300020: button06
+    3300022: button07
+    3300024: button08
+    3300026: button09
+    3300028: button10
+    3300030: button12
+    3300032: button13
+    3300034: button14
+    3300036: button15
+    3300038: button16
+    3300040: button17
+    3300042: button18
+    3300044: button21
+    3300046: button22
+    3300048: button23
+    3300050: button24
+    3300052: button25
+    3300054: button26
+    3300056: button27
+    3300058: button28
+    3300060: button29
+    3300062: button30
+    3300064: button31
+    3300066: button32
+    3300068: button33
+    3300070: button34
+    3300072: button35
+    3300074: button36
+    3300076: button37
+    3300078: fitting
+    3300080: fitting03
+    3300082: fitting04
+    3300084: fitting05
+    3300086: fitting06
+    3300088: fitting10
+    3300090: fitting11
+    3300092: fitting12
+    3300094: fitting13
+    3300096: fitting14
+    3300098: fitting15
+    3300100: fitting16
+    3300102: fitting17
+    3300104: fitting18
+    3300106: fitting19
+    3300108: fitting20
+    3300110: fittng
+    3300112: fittng02
+    3300114: fittng03
+    3300116: fittng04
+    3300118: fittng04 1
+    3300120: fittng05
+    3300122: fittng06
+    3300124: fittng08
+    3300126: fittng09
+    3300128: fittng11
+    3300130: fittng12
+    3300132: fittng13
+    3300134: fittng14
+    3300136: fittng15
+    3300138: fittng16
+    3300140: fittng17
+    3300142: open panel button
+    3300144: screen cover002
+    3300146: screen Hinge Inner002
+    3300148: screen hinge outer002
+    3300150: screen002
+    3300152: switcher small screen bg
+    4300000: SWITCHER
+    4300002: switcher small screen bg
+    4300004: open panel button
+    4300006: button
+    4300008: button under screen1
+    4300010: button37
+    4300012: button under screen 2
+    4300014: button36
+    4300016: bolts
+    4300018: screen Hinge Inner002
+    4300020: screen002
+    4300022: screen hinge outer002
+    4300024: screen cover002
+    4300026: fittng
+    4300028: fittng16
+    4300030: fittng04
+    4300032: fittng12
+    4300034: fittng09
+    4300036: fittng13
+    4300038: fittng03
+    4300040: fittng04
+    4300042: fittng14
+    4300044: fittng06
+    4300046: fittng15
+    4300048: fittng05
+    4300050: fittng02
+    4300052: fittng08
+    4300054: fittng11
+    4300056: fittng17
+    4300058: button08
+    4300060: button10
+    4300062: button07
+    4300064: button09
+    4300066: button06
+    4300068: button12
+    4300070: button13
+    4300072: button05
+    4300074: button15
+    4300076: button17
+    4300078: button16
+    4300080: button02
+    4300082: button03
+    4300084: button01
+    4300086: button
+    4300088: button14
+    4300090: fitting
+    4300092: button18
+    4300094: button30
+    4300096: button26
+    4300098: button33
+    4300100: button29
+    4300102: button31
+    4300104: button22
+    4300106: button23
+    4300108: button32
+    4300110: button28
+    4300112: button27
+    4300114: button35
+    4300116: button34
+    4300118: button25
+    4300120: button24
+    4300122: fitting05
+    4300124: fitting17
+    4300126: fitting15
+    4300128: fitting14
+    4300130: fitting03
+    4300132: fitting18
+    4300134: fitting16
+    4300136: fitting20
+    4300138: fitting11
+    4300140: fitting04
+    4300142: fitting12
+    4300144: fitting13
+    4300146: fitting10
+    4300148: fitting19
+    4300150: fitting06
+    4300152: button21
+    7400000: Take 001
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -25,7 +420,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -37,7 +431,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Take 001
       takeName: Take 001
-      internalID: 1827226128182048838
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0
@@ -69,21 +462,17 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
@@ -95,14 +484,10 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -112,8 +497,8 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
