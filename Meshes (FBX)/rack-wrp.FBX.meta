@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 65a01ed196ebd044599d1584a12dfbee
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box005
+    100002: Box006
+    100004: Box007
+    100006: Cylinder005
+    100008: Cylinder006
+    100010: Cylinder007
+    100012: display
+    100014: display001
+    100016: display002
+    100018: display003
+    100020: frame
+    100022: frame001
+    100024: frame002
+    100026: frame003
+    100028: KNB
+    100030: KNB001
+    100032: //RootNode
+    100034: rackpanel
+    100036: rackpanel001
+    100038: rackpanel002
+    100040: Sphere003
+    100042: Sphere004
+    100044: Sphere005
+    100046: sticker
+    100048: sticker001
+    100050: Tube001
+    100052: Tube002
+    100054: Tube003
+    100056: Tube004
+    100058: wire1
+    100060: wire2
+    400000: Box005
+    400002: Box006
+    400004: Box007
+    400006: Cylinder005
+    400008: Cylinder006
+    400010: Cylinder007
+    400012: display
+    400014: display001
+    400016: display002
+    400018: display003
+    400020: frame
+    400022: frame001
+    400024: frame002
+    400026: frame003
+    400028: KNB
+    400030: KNB001
+    400032: //RootNode
+    400034: rackpanel
+    400036: rackpanel001
+    400038: rackpanel002
+    400040: Sphere003
+    400042: Sphere004
+    400044: Sphere005
+    400046: sticker
+    400048: sticker001
+    400050: Tube001
+    400052: Tube002
+    400054: Tube003
+    400056: Tube004
+    400058: wire1
+    400060: wire2
+    2100000: rack fx accent
+    2100002: boltb
+    2100004: knob body
+    2100006: knob hl
+    2100008: metalfmra
+    2100010: 21 - Default
+    2100012: 09 - Default
+    2100014: No Name
+    2100016: ledrend
+    2100018: led green
+    2300000: Box005
+    2300002: Box006
+    2300004: Box007
+    2300006: Cylinder005
+    2300008: Cylinder006
+    2300010: Cylinder007
+    2300012: display
+    2300014: display001
+    2300016: display002
+    2300018: display003
+    2300020: frame
+    2300022: frame001
+    2300024: frame002
+    2300026: frame003
+    2300028: KNB
+    2300030: KNB001
+    2300032: rackpanel
+    2300034: rackpanel001
+    2300036: rackpanel002
+    2300038: Sphere003
+    2300040: Sphere004
+    2300042: Sphere005
+    2300044: sticker
+    2300046: sticker001
+    2300048: Tube001
+    2300050: Tube002
+    2300052: Tube003
+    2300054: Tube004
+    2300056: wire1
+    2300058: wire2
+    3300000: Box005
+    3300002: Box006
+    3300004: Box007
+    3300006: Cylinder005
+    3300008: Cylinder006
+    3300010: Cylinder007
+    3300012: display
+    3300014: display001
+    3300016: display002
+    3300018: display003
+    3300020: frame
+    3300022: frame001
+    3300024: frame002
+    3300026: frame003
+    3300028: KNB
+    3300030: KNB001
+    3300032: rackpanel
+    3300034: rackpanel001
+    3300036: rackpanel002
+    3300038: Sphere003
+    3300040: Sphere004
+    3300042: Sphere005
+    3300044: sticker
+    3300046: sticker001
+    3300048: Tube001
+    3300050: Tube002
+    3300052: Tube003
+    3300054: Tube004
+    3300056: wire1
+    3300058: wire2
+    4300000: rackpanel
+    4300002: Sphere003
+    4300004: KNB
+    4300006: Cylinder007
+    4300008: Cylinder006
+    4300010: Cylinder005
+    4300012: frame
+    4300014: display
+    4300016: sticker
+    4300018: Tube001
+    4300020: sticker001
+    4300022: KNB001
+    4300024: rackpanel001
+    4300026: Sphere004
+    4300028: frame001
+    4300030: display001
+    4300032: frame002
+    4300034: display002
+    4300036: frame003
+    4300038: display003
+    4300040: rackpanel002
+    4300042: Box005
+    4300044: Box006
+    4300046: Sphere005
+    4300048: Tube004
+    4300050: Tube003
+    4300052: wire2
+    4300054: wire1
+    4300056: Box007
+    4300058: Tube002
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: c8605c33c6010cb408b35cc47a9042b9
+timeCreated: 1491326513
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: button next
+    100002: button pause
+    100004: button play
+    100006: button prev
+    100008: button wider fitting
+    100010: buttonbg
+    100012: buttonWIDE
+    100014: ChamferBox004
+    100016: ChamferCyl001
+    100018: //RootNode
+    100020: PLAYER (RECORDER)
+    100022: player screen
+    100024: player tc display
+    100026: Rectangle005
+    100028: screen cover001
+    100030: screen Hinge Inner001
+    100032: screen hinge outer001
+    100034: screen001
+    100036: ventbool001
+    400000: button next
+    400002: button pause
+    400004: button play
+    400006: button prev
+    400008: button wider fitting
+    400010: buttonbg
+    400012: buttonWIDE
+    400014: ChamferBox004
+    400016: ChamferCyl001
+    400018: //RootNode
+    400020: PLAYER (RECORDER)
+    400022: player screen
+    400024: player tc display
+    400026: Rectangle005
+    400028: screen cover001
+    400030: screen Hinge Inner001
+    400032: screen hinge outer001
+    400034: screen001
+    400036: ventbool001
+    2300000: button next
+    2300002: button pause
+    2300004: button play
+    2300006: button prev
+    2300008: button wider fitting
+    2300010: buttonbg
+    2300012: buttonWIDE
+    2300014: ChamferCyl001
+    2300016: PLAYER (RECORDER)
+    2300018: player screen
+    2300020: player tc display
+    2300022: Rectangle005
+    2300024: screen cover001
+    2300026: screen Hinge Inner001
+    2300028: screen hinge outer001
+    2300030: screen001
+    2300032: ventbool001
+    3300000: button next
+    3300002: button pause
+    3300004: button play
+    3300006: button prev
+    3300008: button wider fitting
+    3300010: buttonbg
+    3300012: buttonWIDE
+    3300014: ChamferCyl001
+    3300016: PLAYER (RECORDER)
+    3300018: player screen
+    3300020: player tc display
+    3300022: Rectangle005
+    3300024: screen cover001
+    3300026: screen Hinge Inner001
+    3300028: screen hinge outer001
+    3300030: screen001
+    3300032: ventbool001
+    4300000: PLAYER (RECORDER)
+    4300002: player screen
+    4300004: Rectangle005
+    4300006: screen Hinge Inner001
+    4300008: screen001
+    4300010: screen cover001
+    4300012: screen hinge outer001
+    4300014: ventbool001
+    4300016: player tc display
+    4300018: button wider fitting
+    4300020: buttonWIDE
+    4300022: buttonbg
+    4300024: button play
+    4300026: button pause
+    4300028: ChamferCyl001
+    4300030: button next
+    4300032: button prev
+    7400000: close
+    7400002: open
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: button next
+        weight: 1
+      - path: button pause
+        weight: 1
+      - path: button play
+        weight: 1
+      - path: button prev
+        weight: 1
+      - path: button wider fitting
+        weight: 1
+      - path: button wider fitting/buttonWIDE
+        weight: 1
+      - path: buttonbg
+        weight: 1
+      - path: ChamferBox004
+        weight: 1
+      - path: ChamferCyl001
+        weight: 1
+      - path: PLAYER (RECORDER)
+        weight: 1
+      - path: PLAYER (RECORDER)/player screen
+        weight: 1
+      - path: PLAYER (RECORDER)/player tc display
+        weight: 1
+      - path: PLAYER (RECORDER)/Rectangle005
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001/screen cover001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001/screen hinge outer001
+        weight: 1
+      - path: PLAYER (RECORDER)/ventbool001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: close
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: button next
+        weight: 1
+      - path: button pause
+        weight: 1
+      - path: button play
+        weight: 1
+      - path: button prev
+        weight: 1
+      - path: button wider fitting
+        weight: 1
+      - path: button wider fitting/buttonWIDE
+        weight: 1
+      - path: buttonbg
+        weight: 1
+      - path: ChamferBox004
+        weight: 1
+      - path: ChamferCyl001
+        weight: 1
+      - path: PLAYER (RECORDER)
+        weight: 1
+      - path: PLAYER (RECORDER)/player screen
+        weight: 1
+      - path: PLAYER (RECORDER)/player tc display
+        weight: 1
+      - path: PLAYER (RECORDER)/Rectangle005
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001/screen cover001
+        weight: 1
+      - path: PLAYER (RECORDER)/screen Hinge Inner001/screen001/screen hinge outer001
+        weight: 1
+      - path: PLAYER (RECORDER)/ventbool001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

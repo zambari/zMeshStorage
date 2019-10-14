@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 176c284915a2727419a75c290f0c5710
+timeCreated: 1507924119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle002
+    100002: Group001
+    100004: Group002
+    100006: Shape028
+    100008: Shape029
+    100010: Shape036
+    100012: Shape037
+    100014: Shape038
+    100016: Shape039
+    100018: Shape040
+    100020: Shape041
+    100022: Shape042
+    100024: Shape043
+    100026: Shape044
+    100028: Shape045
+    100030: Shape046
+    100032: Shape047
+    100034: Shape048
+    100036: Shape049
+    100038: Shape050
+    100040: Shape051
+    100042: Shape052
+    100044: Shape053
+    100046: Shape054
+    100048: Shape055
+    100050: Shape11
+    100052: Shape12
+    100054: Shape13
+    100056: Shape14
+    100058: Shape15
+    100060: Shape16
+    100062: Shape27
+    100064: Shape3
+    100066: Shape5
+    100068: Shape7
+    100070: zebrowanie
+    100072: //RootNode
+    400000: Circle002
+    400002: Group001
+    400004: Group002
+    400006: Shape028
+    400008: Shape029
+    400010: Shape036
+    400012: Shape037
+    400014: Shape038
+    400016: Shape039
+    400018: Shape040
+    400020: Shape041
+    400022: Shape042
+    400024: Shape043
+    400026: Shape044
+    400028: Shape045
+    400030: Shape046
+    400032: Shape047
+    400034: Shape048
+    400036: Shape049
+    400038: Shape050
+    400040: Shape051
+    400042: Shape052
+    400044: Shape053
+    400046: Shape054
+    400048: Shape055
+    400050: Shape11
+    400052: Shape12
+    400054: Shape13
+    400056: Shape14
+    400058: Shape15
+    400060: Shape16
+    400062: Shape27
+    400064: Shape3
+    400066: Shape5
+    400068: Shape7
+    400070: zebrowanie
+    400072: //RootNode
+    2300000: Circle002
+    2300002: Shape036
+    2300004: Shape037
+    2300006: Shape038
+    2300008: Shape039
+    2300010: Shape040
+    2300012: Shape041
+    2300014: Shape042
+    2300016: Shape043
+    2300018: Shape044
+    2300020: Shape045
+    2300022: Shape046
+    2300024: Shape047
+    2300026: Shape048
+    2300028: Shape049
+    2300030: Shape050
+    2300032: Shape051
+    2300034: Shape052
+    2300036: Shape053
+    2300038: Shape054
+    2300040: Shape055
+    2300042: Shape11
+    2300044: Shape12
+    2300046: Shape13
+    2300048: Shape14
+    2300050: Shape15
+    2300052: Shape16
+    2300054: Shape3
+    2300056: Shape5
+    2300058: Shape7
+    2300060: zebrowanie
+    3300000: Circle002
+    3300002: Shape036
+    3300004: Shape037
+    3300006: Shape038
+    3300008: Shape039
+    3300010: Shape040
+    3300012: Shape041
+    3300014: Shape042
+    3300016: Shape043
+    3300018: Shape044
+    3300020: Shape045
+    3300022: Shape046
+    3300024: Shape047
+    3300026: Shape048
+    3300028: Shape049
+    3300030: Shape050
+    3300032: Shape051
+    3300034: Shape052
+    3300036: Shape053
+    3300038: Shape054
+    3300040: Shape055
+    3300042: Shape11
+    3300044: Shape12
+    3300046: Shape13
+    3300048: Shape14
+    3300050: Shape15
+    3300052: Shape16
+    3300054: Shape3
+    3300056: Shape5
+    3300058: Shape7
+    3300060: zebrowanie
+    4300000: Circle002
+    4300002: Shape055
+    4300004: Shape054
+    4300006: Shape14
+    4300008: Shape051
+    4300010: Shape15
+    4300012: Shape5
+    4300014: Shape12
+    4300016: Shape053
+    4300018: Shape052
+    4300020: Shape13
+    4300022: Shape16
+    4300024: Shape11
+    4300026: Shape050
+    4300028: Shape043
+    4300030: Shape041
+    4300032: zebrowanie
+    4300034: Shape3
+    4300036: Shape7
+    4300038: Shape037
+    4300040: Shape049
+    4300042: Shape042
+    4300044: Shape040
+    4300046: Shape039
+    4300048: Shape044
+    4300050: Shape036
+    4300052: Shape038
+    4300054: Shape048
+    4300056: Shape047
+    4300058: Shape046
+    4300060: Shape045
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

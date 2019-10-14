@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 33de3339413ada9409f6438906a64e05
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ekran tv jajo001
+    100002: EKRAN TV001
+    100004: EKRAN tv001
+    100006: kjubface172
+    100008: kjubface172 1
+    100010: kjubface173
+    100012: kjubface174
+    100014: kjubface177
+    100016: kjubface178
+    100018: kjubface179
+    100020: kjubface180
+    100022: kjubface182
+    100024: kjubface183
+    100026: kjubface184
+    100028: kjubface185
+    100030: kjubface186
+    100032: kjubface187
+    100034: kjubface188
+    100036: kjubface189
+    100038: kjubface190
+    100040: kjubface196
+    100042: kjubface197
+    100044: kjubface198
+    100046: kjubface200
+    100048: kjubface201
+    100050: polaczone EKRANY
+    100052: 'polaczone TV metal '
+    100054: //RootNode
+    100056: ttv plastik
+    100058: tv 001
+    100060: TV DUzy
+    100062: tv ekran001
+    100064: tv jajo
+    100066: tv jajo001
+    100068: tv panel001
+    100070: tv panel002
+    100072: tv panel003
+    100074: tv panelm
+    100076: tv ram002
+    100078: tv ram003
+    100080: tv rama001
+    100082: tv rama002
+    100084: tv rama2
+    100086: TV sredni
+    100088: TV Stary001
+    100090: TV stary001
+    100092: tvekr002
+    100094: tvekr003
+    100096: monitor
+    100098: postc
+    100100: tv oldskul
+    100102: bac
+    100104: Object001
+    400000: ekran tv jajo001
+    400002: EKRAN TV001
+    400004: EKRAN tv001
+    400006: kjubface172
+    400008: kjubface172 1
+    400010: kjubface173
+    400012: kjubface174
+    400014: kjubface177
+    400016: kjubface178
+    400018: kjubface179
+    400020: kjubface180
+    400022: kjubface182
+    400024: kjubface183
+    400026: kjubface184
+    400028: kjubface185
+    400030: kjubface186
+    400032: kjubface187
+    400034: kjubface188
+    400036: kjubface189
+    400038: kjubface190
+    400040: kjubface196
+    400042: kjubface197
+    400044: kjubface198
+    400046: kjubface200
+    400048: kjubface201
+    400050: polaczone EKRANY
+    400052: 'polaczone TV metal '
+    400054: //RootNode
+    400056: ttv plastik
+    400058: tv 001
+    400060: TV DUzy
+    400062: tv ekran001
+    400064: tv jajo
+    400066: tv jajo001
+    400068: tv panel001
+    400070: tv panel002
+    400072: tv panel003
+    400074: tv panelm
+    400076: tv ram002
+    400078: tv ram003
+    400080: tv rama001
+    400082: tv rama002
+    400084: tv rama2
+    400086: TV sredni
+    400088: TV Stary001
+    400090: TV stary001
+    400092: tvekr002
+    400094: tvekr003
+    400096: monitor
+    400098: postc
+    400100: tv oldskul
+    400102: bac
+    400104: Object001
+    2100000: 09 - Default
+    2100002: SCREEN
+    2100004: gray lightter
+    2100006: grayone
+    2100008: 'Material #27'
+    2300000: ekran tv jajo001
+    2300002: EKRAN TV001
+    2300004: EKRAN tv001
+    2300006: kjubface172 1
+    2300008: kjubface173
+    2300010: kjubface174
+    2300012: kjubface177
+    2300014: kjubface178
+    2300016: kjubface179
+    2300018: kjubface180
+    2300020: kjubface182
+    2300022: kjubface183
+    2300024: kjubface184
+    2300026: kjubface185
+    2300028: kjubface186
+    2300030: kjubface187
+    2300032: kjubface188
+    2300034: kjubface189
+    2300036: kjubface190
+    2300038: kjubface196
+    2300040: polaczone EKRANY
+    2300042: 'polaczone TV metal '
+    2300044: ttv plastik
+    2300046: tv ekran001
+    2300048: tv jajo001
+    2300050: tv panel001
+    2300052: tv ram002
+    2300054: tv ram003
+    2300056: tv rama001
+    2300058: tv rama002
+    2300060: TV stary001
+    2300062: tvekr002
+    2300064: tvekr003
+    2300066: monitor
+    2300068: postc
+    2300070: tv oldskul
+    2300072: bac
+    2300074: Object001
+    3300000: ekran tv jajo001
+    3300002: EKRAN TV001
+    3300004: EKRAN tv001
+    3300006: kjubface172 1
+    3300008: kjubface173
+    3300010: kjubface174
+    3300012: kjubface177
+    3300014: kjubface178
+    3300016: kjubface179
+    3300018: kjubface180
+    3300020: kjubface182
+    3300022: kjubface183
+    3300024: kjubface184
+    3300026: kjubface185
+    3300028: kjubface186
+    3300030: kjubface187
+    3300032: kjubface188
+    3300034: kjubface189
+    3300036: kjubface190
+    3300038: kjubface196
+    3300040: polaczone EKRANY
+    3300042: 'polaczone TV metal '
+    3300044: ttv plastik
+    3300046: tv ekran001
+    3300048: tv jajo001
+    3300050: tv panel001
+    3300052: tv ram002
+    3300054: tv ram003
+    3300056: tv rama001
+    3300058: tv rama002
+    3300060: TV stary001
+    3300062: tvekr002
+    3300064: tvekr003
+    3300066: monitor
+    3300068: postc
+    3300070: tv oldskul
+    3300072: bac
+    3300074: Object001
+    4300000: kjubface178
+    4300002: EKRAN tv001
+    4300004: kjubface172
+    4300006: kjubface173
+    4300008: kjubface174
+    4300010: kjubface177
+    4300012: kjubface179
+    4300014: kjubface182
+    4300016: kjubface183
+    4300018: kjubface196
+    4300020: tv rama002
+    4300022: tv panel001
+    4300024: tv rama001
+    4300026: tv ekran001
+    4300028: tv ram002
+    4300030: tvekr002
+    4300032: kjubface185
+    4300034: kjubface186
+    4300036: kjubface190
+    4300038: kjubface187
+    4300040: kjubface184
+    4300042: kjubface188
+    4300044: kjubface189
+    4300046: tv ram003
+    4300048: tvekr003
+    4300050: ttv plastik
+    4300052: 'polaczone TV metal '
+    4300054: polaczone EKRANY
+    4300056: TV stary001
+    4300058: EKRAN TV001
+    4300060: kjubface180
+    4300062: tv jajo001
+    4300064: ekran tv jajo001
+    4300066: tv oldskul
+    4300068: monitor
+    4300070: postc
+    4300072: bac
+    4300074: Object001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

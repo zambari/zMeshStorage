@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 076783d45d354af439e6b3d153e0dce3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: A
+    100002: ammo
+    100004: arml
+    100006: B
+    100008: barret
+    100010: Box007
+    100012: Box008
+    100014: C
+    100016: calf
+    100018: //RootNode
+    100020: D
+    100022: Dummy001
+    100024: Dummy002
+    100026: Dummy003
+    100028: Dummy004
+    100030: feetbase
+    100032: fingerbase
+    100034: forearml
+    100036: handbase
+    100038: lbaret
+    100040: main
+    100042: pipe
+    100044: pipe 1
+    100046: thighl
+    100048: tosebase
+    100050: trzymadlo
+    100052: turebase
+    100054: turretsa
+    400000: A
+    400002: ammo
+    400004: arml
+    400006: B
+    400008: barret
+    400010: Box007
+    400012: Box008
+    400014: C
+    400016: calf
+    400018: //RootNode
+    400020: D
+    400022: Dummy001
+    400024: Dummy002
+    400026: Dummy003
+    400028: Dummy004
+    400030: feetbase
+    400032: fingerbase
+    400034: forearml
+    400036: handbase
+    400038: lbaret
+    400040: main
+    400042: pipe
+    400044: pipe 1
+    400046: thighl
+    400048: tosebase
+    400050: trzymadlo
+    400052: turebase
+    400054: turretsa
+    2100000: No Name
+    2100002: 'Material #2'
+    2300000: A
+    2300002: ammo
+    2300004: arml
+    2300006: B
+    2300008: barret
+    2300010: Box007
+    2300012: Box008
+    2300014: C
+    2300016: calf
+    2300018: D
+    2300020: feetbase
+    2300022: fingerbase
+    2300024: forearml
+    2300026: handbase
+    2300028: lbaret
+    2300030: main
+    2300032: pipe
+    2300034: pipe 1
+    2300036: thighl
+    2300038: tosebase
+    2300040: trzymadlo
+    2300042: turebase
+    2300044: turretsa
+    3300000: A
+    3300002: ammo
+    3300004: arml
+    3300006: B
+    3300008: barret
+    3300010: Box007
+    3300012: Box008
+    3300014: C
+    3300016: calf
+    3300018: D
+    3300020: feetbase
+    3300022: fingerbase
+    3300024: forearml
+    3300026: handbase
+    3300028: lbaret
+    3300030: main
+    3300032: pipe
+    3300034: pipe 1
+    3300036: thighl
+    3300038: tosebase
+    3300040: trzymadlo
+    3300042: turebase
+    3300044: turretsa
+    4300000: main
+    4300002: Box007
+    4300004: pipe
+    4300006: pipe
+    4300008: feetbase
+    4300010: trzymadlo
+    4300012: turretsa
+    4300014: turebase
+    4300016: Box008
+    4300018: lbaret
+    4300020: barret
+    4300022: ammo
+    4300024: arml
+    4300026: forearml
+    4300028: handbase
+    4300030: fingerbase
+    4300032: calf
+    4300034: thighl
+    4300036: tosebase
+    4300038: B
+    4300040: C
+    4300042: D
+    4300044: A
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
