@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 5af6176dfce62944c8bb595dcd928640
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '@UnsplitreferenceLabirynthMain'
+    100002: bridgeEntry
+    100004: BridgeFar
+    100006: BridgeFar001
+    100008: BridgeFarpart
+    100010: GroundExtents
+    100012: GroundExtentsMod
+    100014: GroundLines
+    100016: GroundObstacles
+    100018: //RootNode
+    100020: LabirynthDetach007
+    100022: LabirynthOpens
+    100024: LabirynthSlice01
+    100026: LabirynthSlice02
+    100028: LabirynthSlice03
+    100030: LabirynthSlice04
+    100032: LabirynthSlice05
+    100034: mainsplit1
+    100036: mainsplit2
+    100038: mainsplit3
+    100040: mainsplit4
+    100042: mainsplit5
+    100044: midsi
+    100046: OriginalStandardAssetsGroundObstacles
+    100048: wallfront
+    100050: mainsplit6
+    100052: przeslo
+    100054: przesloseg
+    400000: '@UnsplitreferenceLabirynthMain'
+    400002: bridgeEntry
+    400004: BridgeFar
+    400006: BridgeFar001
+    400008: BridgeFarpart
+    400010: GroundExtents
+    400012: GroundExtentsMod
+    400014: GroundLines
+    400016: GroundObstacles
+    400018: //RootNode
+    400020: LabirynthDetach007
+    400022: LabirynthOpens
+    400024: LabirynthSlice01
+    400026: LabirynthSlice02
+    400028: LabirynthSlice03
+    400030: LabirynthSlice04
+    400032: LabirynthSlice05
+    400034: mainsplit1
+    400036: mainsplit2
+    400038: mainsplit3
+    400040: mainsplit4
+    400042: mainsplit5
+    400044: midsi
+    400046: OriginalStandardAssetsGroundObstacles
+    400048: wallfront
+    400050: mainsplit6
+    400052: przeslo
+    400054: przesloseg
+    2100000: NavySmooth
+    2100002: NavyGrid
+    2100004: NavyDarkGrid
+    2100006: WhiteSmooth
+    2300000: '@UnsplitreferenceLabirynthMain'
+    2300002: bridgeEntry
+    2300004: BridgeFar
+    2300006: BridgeFar001
+    2300008: BridgeFarpart
+    2300010: GroundExtents
+    2300012: GroundExtentsMod
+    2300014: GroundLines
+    2300016: GroundObstacles
+    2300018: LabirynthDetach007
+    2300020: LabirynthOpens
+    2300022: LabirynthSlice01
+    2300024: LabirynthSlice02
+    2300026: LabirynthSlice03
+    2300028: LabirynthSlice04
+    2300030: LabirynthSlice05
+    2300032: mainsplit1
+    2300034: mainsplit2
+    2300036: mainsplit3
+    2300038: mainsplit4
+    2300040: mainsplit5
+    2300042: midsi
+    2300044: OriginalStandardAssetsGroundObstacles
+    2300046: wallfront
+    2300048: mainsplit6
+    2300050: przeslo
+    2300052: przesloseg
+    3300000: '@UnsplitreferenceLabirynthMain'
+    3300002: bridgeEntry
+    3300004: BridgeFar
+    3300006: BridgeFar001
+    3300008: BridgeFarpart
+    3300010: GroundExtents
+    3300012: GroundExtentsMod
+    3300014: GroundLines
+    3300016: GroundObstacles
+    3300018: LabirynthDetach007
+    3300020: LabirynthOpens
+    3300022: LabirynthSlice01
+    3300024: LabirynthSlice02
+    3300026: LabirynthSlice03
+    3300028: LabirynthSlice04
+    3300030: LabirynthSlice05
+    3300032: mainsplit1
+    3300034: mainsplit2
+    3300036: mainsplit3
+    3300038: mainsplit4
+    3300040: mainsplit5
+    3300042: midsi
+    3300044: OriginalStandardAssetsGroundObstacles
+    3300046: wallfront
+    3300048: mainsplit6
+    3300050: przeslo
+    3300052: przesloseg
+    4300000: GroundExtents
+    4300002: GroundLines
+    4300004: GroundObstacles
+    4300006: GroundExtentsMod
+    4300008: OriginalStandardAssetsGroundObstacles
+    4300010: BridgeFar
+    4300012: BridgeFar001
+    4300014: bridgeEntry
+    4300016: LabirynthOpens
+    4300018: LabirynthSlice05
+    4300020: LabirynthSlice04
+    4300022: LabirynthSlice03
+    4300024: LabirynthSlice02
+    4300026: LabirynthSlice01
+    4300028: LabirynthDetach007
+    4300030: midsi
+    4300032: wallfront
+    4300034: mainsplit4
+    4300036: mainsplit1
+    4300038: mainsplit2
+    4300040: mainsplit3
+    4300042: mainsplit5
+    4300044: '@UnsplitreferenceLabirynthMain'
+    4300046: BridgeFarpart
+    4300048: przeslo
+    4300050: przesloseg
+    4300052: mainsplit6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
