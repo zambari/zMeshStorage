@@ -28,6 +28,9 @@ ModelImporter:
     100044: midsi
     100046: OriginalStandardAssetsGroundObstacles
     100048: wallfront
+    100050: mainsplit6
+    100052: przeslo
+    100054: przesloseg
     400000: '@UnsplitreferenceLabirynthMain'
     400002: bridgeEntry
     400004: BridgeFar
@@ -53,6 +56,9 @@ ModelImporter:
     400044: midsi
     400046: OriginalStandardAssetsGroundObstacles
     400048: wallfront
+    400050: mainsplit6
+    400052: przeslo
+    400054: przesloseg
     2100000: NavySmooth
     2100002: NavyGrid
     2100004: NavyDarkGrid
@@ -81,6 +87,9 @@ ModelImporter:
     2300042: midsi
     2300044: OriginalStandardAssetsGroundObstacles
     2300046: wallfront
+    2300048: mainsplit6
+    2300050: przeslo
+    2300052: przesloseg
     3300000: '@UnsplitreferenceLabirynthMain'
     3300002: bridgeEntry
     3300004: BridgeFar
@@ -105,6 +114,9 @@ ModelImporter:
     3300042: midsi
     3300044: OriginalStandardAssetsGroundObstacles
     3300046: wallfront
+    3300048: mainsplit6
+    3300050: przeslo
+    3300052: przesloseg
     4300000: GroundExtents
     4300002: GroundLines
     4300004: GroundObstacles
@@ -129,6 +141,9 @@ ModelImporter:
     4300042: mainsplit5
     4300044: '@UnsplitreferenceLabirynthMain'
     4300046: BridgeFarpart
+    4300048: przeslo
+    4300050: przesloseg
+    4300052: mainsplit6
   externalObjects: {}
   materials:
     importMaterials: 1
