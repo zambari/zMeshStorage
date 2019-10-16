@@ -22,6 +22,9 @@ ModelImporter:
     100032: szafr.003
     100034: szafr.004
     100036: szafr.005
+    100038: Camera.001
+    100040: Cube.003
+    100042: Light.001
     400000: //RootNode
     400002: Camera
     400004: Cube
@@ -41,11 +44,16 @@ ModelImporter:
     400032: szafr.003
     400034: szafr.004
     400036: szafr.005
+    400038: Camera.001
+    400040: Cube.003
+    400042: Light.001
     2000000: Camera
+    2000002: Camera.001
     2100000: Material.002
     2100002: Material.001
     2100004: No Name
     2100006: Material
+    2100008: Material.003
     2300000: Cube
     2300002: Cube.001
     2300004: Cube.002
@@ -62,6 +70,7 @@ ModelImporter:
     2300026: szafr.003
     2300028: szafr.004
     2300030: szafr.005
+    2300032: Cube.003
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -78,6 +87,7 @@ ModelImporter:
     3300026: szafr.003
     3300028: szafr.004
     3300030: szafr.005
+    3300032: Cube.003
     4300000: Plane
     4300002: Cube.002
     4300004: Cube.001
@@ -94,7 +104,9 @@ ModelImporter:
     4300026: szafr.004
     4300028: szafr.005
     4300030: Cube
+    4300032: Cube.003
     10800000: Light
+    10800002: Light.001
   externalObjects: {}
   materials:
     importMaterials: 1
