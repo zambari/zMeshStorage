@@ -1,21 +1,21 @@
 fileFormatVersion: 2
-guid: 00387ff90a347a64991f070006778c67
+guid: 1a54083b0d0eba9408847c67c17ffea8
+timeCreated: 1503316936
+licenseType: Free
 TrueTypeFontImporter:
-  externalObjects: {}
   serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: HURTMOLD_
+  fontName: Telegrama
   fontNames:
-  - HURTMOLD_
+  - Telegrama
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
