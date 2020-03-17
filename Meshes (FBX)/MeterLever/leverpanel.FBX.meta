@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: cf1d60ce9ab579948ae56b20a952d9bf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: blocker1
+    100002: blocker2
+    100004: display
+    100006: Frame
+    100008: glass
+    100010: grupa marker
+    100012: indicator
+    100014: indicator001
+    100016: label
+    100018: lever base
+    100020: lever handle
+    100022: Levercyl
+    100024: //RootNode
+    100026: marker002
+    100028: marker003
+    100030: marker1
+    100032: Particle View 001
+    100034: Plane001
+    100036: scale
+    100038: scale001
+    100040: Srubex
+    100042: Srubex001
+    100044: Srubex002
+    100046: Srubex003
+    100048: srubki grupa
+    400000: blocker1
+    400002: blocker2
+    400004: display
+    400006: Frame
+    400008: glass
+    400010: grupa marker
+    400012: indicator
+    400014: indicator001
+    400016: label
+    400018: lever base
+    400020: lever handle
+    400022: Levercyl
+    400024: //RootNode
+    400026: marker002
+    400028: marker003
+    400030: marker1
+    400032: Particle View 001
+    400034: Plane001
+    400036: scale
+    400038: scale001
+    400040: Srubex
+    400042: Srubex001
+    400044: Srubex002
+    400046: Srubex003
+    400048: srubki grupa
+    2100000: mainfrm
+    2100002: indicato
+    2100004: 'Material #40'
+    2100006: srubex
+    2100008: markermaterial3
+    2100010: scale background material
+    2100012: scalematerial
+    2100014: 'Material #41'
+    2100016: scalepos
+    2100018: handlbek
+    2100020: black
+    2300000: blocker1
+    2300002: blocker2
+    2300004: Frame
+    2300006: glass
+    2300008: indicator
+    2300010: indicator001
+    2300012: label
+    2300014: lever handle
+    2300016: Levercyl
+    2300018: marker002
+    2300020: marker003
+    2300022: marker1
+    2300024: Plane001
+    2300026: scale
+    2300028: scale001
+    2300030: Srubex
+    2300032: Srubex001
+    2300034: Srubex002
+    2300036: Srubex003
+    3300000: blocker1
+    3300002: blocker2
+    3300004: Frame
+    3300006: glass
+    3300008: indicator
+    3300010: indicator001
+    3300012: label
+    3300014: lever handle
+    3300016: Levercyl
+    3300018: marker002
+    3300020: marker003
+    3300022: marker1
+    3300024: Plane001
+    3300026: scale
+    3300028: scale001
+    3300030: Srubex
+    3300032: Srubex001
+    3300034: Srubex002
+    3300036: Srubex003
+    4300000: Frame
+    4300002: indicator
+    4300004: label
+    4300006: Srubex
+    4300008: Srubex001
+    4300010: Srubex002
+    4300012: Srubex003
+    4300014: marker1
+    4300016: marker002
+    4300018: marker003
+    4300020: scale
+    4300022: glass
+    4300024: blocker2
+    4300026: blocker1
+    4300028: scale001
+    4300030: indicator001
+    4300032: lever handle
+    4300034: Levercyl
+    4300036: Plane001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 0483e3b9f19a5b140a508d313b5ffedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 88b84d888ac979141b4db2b66929a54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 6f8ecba5412d66746bb9f910e9675460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handlbek
+    second: {fileID: 2100000, guid: 687b2c4b1beb163408d7c19ce57401b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: indicato
+    second: {fileID: 2100000, guid: 9a857da358570a94eb53176bada515d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainfrm
+    second: {fileID: 2100000, guid: 23ccf37caef8ecb47b089e9735276346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: markermaterial3
+    second: {fileID: 2100000, guid: ac366e8cfb30b2d478a2b637d6ddf0c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scale background material
+    second: {fileID: 2100000, guid: 347885b85a517e64ba93a33a163be570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scalematerial
+    second: {fileID: 2100000, guid: 6e3084ecf41be664f974a23ca92ca3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scalepos
+    second: {fileID: 2100000, guid: 9f29d67cdd5eb2346b0b4157606e9eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: srubex
+    second: {fileID: 2100000, guid: 7011ea59a984c004c996f1d6f66a7546, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
