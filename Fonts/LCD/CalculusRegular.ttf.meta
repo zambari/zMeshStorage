@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f33000f4e471cde43aa65445823bd955
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calculus
+  fontNames:
+  - Calculus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: df723b607b83e754082eff0bba190fbf, type: 3}
+  - {fileID: 12800000, guid: 0af39e69dad966d4498e163673de22e6, type: 3}
+  - {fileID: 12800000, guid: 93cadb1b260a86a4faf3e2728f403985, type: 3}
+  - {fileID: 12800000, guid: 18a6ca6bea4b1c042a5fbca5cd1e3e11, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
