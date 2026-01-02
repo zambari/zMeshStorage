@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 980105f8014606d4c83f861c2e544962
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1m
+    100002: 1m_1
+    100004: Box001
+    100006: Cap_1
+    100008: Cap_1_2
+    100010: Cap_1_5
+    100012: Cap_2
+    100014: Cap_2_2
+    100016: Cap_2_5
+    100018: Chari
+    100020: Desk
+    100022: DoorFrame
+    100024: Floor
+    100026: //RootNode
+    100028: tex 1m
+    100030: text
+    100032: text_1
+    100034: text_2
+    100036: textdim
+    100038: Box002
+    100040: Box003
+    100042: Box004
+    100044: Box005
+    100046: Box006
+    100048: Box007
+    100050: Box008
+    100052: Box009
+    100054: Box010
+    100056: Box011
+    100058: Box012
+    100060: 1Mmark
+    100062: 1Mmark001
+    100064: 1Mmark002
+    100066: 1Mmark003
+    100068: 1Mmark004
+    100070: 1Mmark005
+    100072: 1Mmark006
+    100074: 1Mmark007
+    100076: 1Mmark008
+    100078: 1Mmark009
+    100080: Segment
+    100082: Segment001
+    100084: Segment002
+    100086: Segment003
+    100088: Segment004
+    100090: Segment005
+    100092: Segment006
+    100094: Segment007
+    100096: Segment008
+    100098: Segment009
+    100100: Segment010
+    100102: 2m bar
+    100104: 2m bar001
+    100106: 2m bar002
+    100108: Segment011
+    100110: Segment012
+    100112: Segment013
+    100114: Segment014
+    100116: Segment015
+    100118: Segment016
+    100120: Segment017
+    100122: Segment018
+    100124: Segment019
+    100126: Segment020
+    100128: text150
+    100130: Segment021
+    100132: Segment022
+    100134: Segment023
+    100136: Segment024
+    100138: Segment025
+    100140: Segment026
+    100142: Segment027
+    100144: Segment028
+    100146: Segment029
+    100148: Segment030
+    100150: 2m bar003
+    100152: Text001
+    100154: Text002
+    100156: Text003
+    100158: 8meters
+    400000: 1m
+    400002: 1m_1
+    400004: Box001
+    400006: Cap_1
+    400008: Cap_1_2
+    400010: Cap_1_5
+    400012: Cap_2
+    400014: Cap_2_2
+    400016: Cap_2_5
+    400018: Chari
+    400020: Desk
+    400022: DoorFrame
+    400024: Floor
+    400026: //RootNode
+    400028: tex 1m
+    400030: text
+    400032: text_1
+    400034: text_2
+    400036: textdim
+    400038: Box002
+    400040: Box003
+    400042: Box004
+    400044: Box005
+    400046: Box006
+    400048: Box007
+    400050: Box008
+    400052: Box009
+    400054: Box010
+    400056: Box011
+    400058: Box012
+    400060: 1Mmark
+    400062: 1Mmark001
+    400064: 1Mmark002
+    400066: 1Mmark003
+    400068: 1Mmark004
+    400070: 1Mmark005
+    400072: 1Mmark006
+    400074: 1Mmark007
+    400076: 1Mmark008
+    400078: 1Mmark009
+    400080: Segment
+    400082: Segment001
+    400084: Segment002
+    400086: Segment003
+    400088: Segment004
+    400090: Segment005
+    400092: Segment006
+    400094: Segment007
+    400096: Segment008
+    400098: Segment009
+    400100: Segment010
+    400102: 2m bar
+    400104: 2m bar001
+    400106: 2m bar002
+    400108: Segment011
+    400110: Segment012
+    400112: Segment013
+    400114: Segment014
+    400116: Segment015
+    400118: Segment016
+    400120: Segment017
+    400122: Segment018
+    400124: Segment019
+    400126: Segment020
+    400128: text150
+    400130: Segment021
+    400132: Segment022
+    400134: Segment023
+    400136: Segment024
+    400138: Segment025
+    400140: Segment026
+    400142: Segment027
+    400144: Segment028
+    400146: Segment029
+    400148: Segment030
+    400150: 2m bar003
+    400152: Text001
+    400154: Text002
+    400156: Text003
+    400158: 8meters
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: 'Material #28'
+    2100008: 'Material #29'
+    2100010: 'Material #30'
+    2100012: 'Material #48'
+    2100014: 'Material #49'
+    2100016: 'Material #50'
+    2100018: 'Material #51'
+    2100020: 'Material #52'
+    2100022: 'Material #53'
+    2100024: 'Material #54'
+    2100026: 'Material #55'
+    2100028: 'Material #59'
+    2100030: 'Material #34'
+    2100032: 'Material #35'
+    2100034: 'Material #39'
+    2100036: 'Material #41'
+    2100038: 'Material #40'
+    2100040: 'Material #42'
+    2100042: 'Material #43'
+    2100044: 'Material #31'
+    2100046: 'Material #44'
+    2100048: 'Material #32'
+    2100050: 'Material #33'
+    2100052: 'Material #45'
+    2100054: 'Material #47'
+    2100056: 'Material #46'
+    2100058: No Name
+    2100060: semitransp
+    2300000: 1m
+    2300002: 1m_1
+    2300004: Box001
+    2300006: Cap_1
+    2300008: Cap_1_2
+    2300010: Cap_1_5
+    2300012: Cap_2
+    2300014: Cap_2_2
+    2300016: Cap_2_5
+    2300018: Chari
+    2300020: Desk
+    2300022: DoorFrame
+    2300024: Floor
+    2300026: tex 1m
+    2300028: text
+    2300030: text_1
+    2300032: text_2
+    2300034: textdim
+    2300036: Box002
+    2300038: Box003
+    2300040: Box004
+    2300042: Box005
+    2300044: Box006
+    2300046: Box007
+    2300048: Box008
+    2300050: Box009
+    2300052: Box010
+    2300054: Box011
+    2300056: Box012
+    2300058: 1Mmark
+    2300060: 1Mmark001
+    2300062: 1Mmark002
+    2300064: 1Mmark003
+    2300066: 1Mmark004
+    2300068: 1Mmark005
+    2300070: 1Mmark006
+    2300072: 1Mmark007
+    2300074: 1Mmark008
+    2300076: 1Mmark009
+    2300078: Segment
+    2300080: Segment001
+    2300082: Segment002
+    2300084: Segment003
+    2300086: Segment004
+    2300088: Segment005
+    2300090: Segment006
+    2300092: Segment007
+    2300094: Segment008
+    2300096: Segment009
+    2300098: Segment010
+    2300100: 2m bar
+    2300102: 2m bar001
+    2300104: 2m bar002
+    2300106: Segment011
+    2300108: Segment012
+    2300110: Segment013
+    2300112: Segment014
+    2300114: Segment015
+    2300116: Segment016
+    2300118: Segment017
+    2300120: Segment018
+    2300122: Segment019
+    2300124: Segment020
+    2300126: text150
+    2300128: Segment021
+    2300130: Segment022
+    2300132: Segment023
+    2300134: Segment024
+    2300136: Segment025
+    2300138: Segment026
+    2300140: Segment027
+    2300142: Segment028
+    2300144: Segment029
+    2300146: Segment030
+    2300148: 2m bar003
+    2300150: Text001
+    2300152: Text002
+    2300154: Text003
+    3300000: 1m
+    3300002: 1m_1
+    3300004: Box001
+    3300006: Cap_1
+    3300008: Cap_1_2
+    3300010: Cap_1_5
+    3300012: Cap_2
+    3300014: Cap_2_2
+    3300016: Cap_2_5
+    3300018: Chari
+    3300020: Desk
+    3300022: DoorFrame
+    3300024: Floor
+    3300026: tex 1m
+    3300028: text
+    3300030: text_1
+    3300032: text_2
+    3300034: textdim
+    3300036: Box002
+    3300038: Box003
+    3300040: Box004
+    3300042: Box005
+    3300044: Box006
+    3300046: Box007
+    3300048: Box008
+    3300050: Box009
+    3300052: Box010
+    3300054: Box011
+    3300056: Box012
+    3300058: 1Mmark
+    3300060: 1Mmark001
+    3300062: 1Mmark002
+    3300064: 1Mmark003
+    3300066: 1Mmark004
+    3300068: 1Mmark005
+    3300070: 1Mmark006
+    3300072: 1Mmark007
+    3300074: 1Mmark008
+    3300076: 1Mmark009
+    3300078: Segment
+    3300080: Segment001
+    3300082: Segment002
+    3300084: Segment003
+    3300086: Segment004
+    3300088: Segment005
+    3300090: Segment006
+    3300092: Segment007
+    3300094: Segment008
+    3300096: Segment009
+    3300098: Segment010
+    3300100: 2m bar
+    3300102: 2m bar001
+    3300104: 2m bar002
+    3300106: Segment011
+    3300108: Segment012
+    3300110: Segment013
+    3300112: Segment014
+    3300114: Segment015
+    3300116: Segment016
+    3300118: Segment017
+    3300120: Segment018
+    3300122: Segment019
+    3300124: Segment020
+    3300126: text150
+    3300128: Segment021
+    3300130: Segment022
+    3300132: Segment023
+    3300134: Segment024
+    3300136: Segment025
+    3300138: Segment026
+    3300140: Segment027
+    3300142: Segment028
+    3300144: Segment029
+    3300146: Segment030
+    3300148: 2m bar003
+    3300150: Text001
+    3300152: Text002
+    3300154: Text003
+    4300000: text_2
+    4300002: Cap_1
+    4300004: Cap_2
+    4300006: text_1
+    4300008: Cap_1_2
+    4300010: Cap_2_2
+    4300012: 1m_1
+    4300014: text
+    4300016: Cap_1_5
+    4300018: Cap_2_5
+    4300020: 1m
+    4300022: tex 1m
+    4300024: Floor
+    4300026: DoorFrame
+    4300028: Chari
+    4300030: Desk
+    4300032: textdim
+    4300034: Box001
+    4300036: Box002
+    4300038: Box003
+    4300040: Box004
+    4300042: Box005
+    4300044: Box006
+    4300046: Box007
+    4300048: Box008
+    4300050: Box009
+    4300052: Box010
+    4300054: Box011
+    4300056: Box012
+    4300058: 1Mmark
+    4300060: 1Mmark001
+    4300062: 1Mmark002
+    4300064: 1Mmark003
+    4300066: 1Mmark004
+    4300068: 1Mmark005
+    4300070: 1Mmark006
+    4300072: 1Mmark007
+    4300074: 1Mmark008
+    4300076: 1Mmark009
+    4300078: Segment
+    4300080: Segment001
+    4300082: Segment002
+    4300084: Segment003
+    4300086: Segment004
+    4300088: Segment005
+    4300090: Segment006
+    4300092: Segment007
+    4300094: Segment008
+    4300096: Segment009
+    4300098: Segment010
+    4300100: text150
+    4300102: 2m bar
+    4300104: 2m bar001
+    4300106: 2m bar002
+    4300108: Segment011
+    4300110: Segment012
+    4300112: Segment013
+    4300114: Segment014
+    4300116: Segment015
+    4300118: Segment016
+    4300120: Segment017
+    4300122: Segment018
+    4300124: Segment019
+    4300126: Segment020
+    4300128: Segment021
+    4300130: Segment022
+    4300132: Segment023
+    4300134: Segment024
+    4300136: Segment025
+    4300138: Segment026
+    4300140: Segment027
+    4300142: Segment028
+    4300144: Segment029
+    4300146: Segment030
+    4300148: Text001
+    4300150: Text002
+    4300152: Text003
+    4300154: 2m bar003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
